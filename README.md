@@ -1,9 +1,11 @@
 # Eat:WHA
 <img width="328" alt="image" src="https://user-images.githubusercontent.com/77625287/208465405-966d537b-c6ab-4a8b-b729-f5fe82c7a46d.png">
+<div align=center>
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff)
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=fff)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=fff)
+</div>
 
 ## 🍴 잇화 소개
 #### 바쁜 이화인들을 위한 이 시대의 이화 캠퍼스 맛집 웹 어플리케이션
