@@ -1,6 +1,6 @@
 # Eat:WHA
 <img width="328" alt="image" src="https://user-images.githubusercontent.com/77625287/208465405-966d537b-c6ab-4a8b-b729-f5fe82c7a46d.png">
-<div align=center>
+<div>
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
